@@ -1,0 +1,27 @@
+﻿@page
+@model Teachers.Pages.TeachersModel
+@{
+     ViewData["Title"] = "Teachers page";
+}
+<table>
+    <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Class ID</th>
+    </tr>
+    <tr>
+        <td>@Model.Sicco.Name</td>
+        <td>@Model.Sicco.Id</td>
+        <td>@Model.Sicco.ClassId</td>
+    </tr>
+    <tr>
+        <td>@Model.Tim.Name</td>
+        <td>@Model.Tim.Id</td>
+        <td>@Model.Tim.ClassId</td>
+    </tr>
+    <tr>
+        <td>@Model.Jordy.Name</td>
+        <td>@Model.Jordy.Id</td>
+        <td>@Model.Jordy.ClassId</td>
+    </tr>
+</table>
