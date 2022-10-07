@@ -25,3 +25,8 @@ So I came up with the B.E.S.A.R.T. learning method:
 * **A**: Apply the newly found information to solve your problems (don't just copy paste the answer, understand what went wrong)
 * **R**: Really feel good because you finally solved the issue (finally solving an issue feels **REALLY** good) 
 * **T**: Truly embrace your mistakes and never forget what you learned (don't forget how painful it felt to make the mistake, and how good it felt to finally figure it out)
+
+## Back to Coding
+After a small break from learning .NET, I'm happy to announce that I have once again returned! And boy did I return! I think taking a small break from learning C# was necessary. Because of it, I really learned that coding is a lot like breathing, if you don't do it often, something bad might happen! And in this case, that bad thing is remembering how to code. So I'm glad I experienced this for myself, since this was a very necessary wake-up call.
+
+[im-back-gif](readme-images/im-back-baby-futurama.gif)  
