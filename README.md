@@ -29,4 +29,4 @@ So I came up with the B.E.S.A.R.T. learning method:
 ## Back to Coding
 After a small break from learning .NET, I'm happy to announce that I have once again returned! And boy did I return! I think taking a small break from learning C# was necessary. Because of it, I really learned that coding is a lot like breathing, if you don't do it often, something bad might happen! And in this case, that bad thing is remembering how to code. So I'm glad I experienced this for myself, since this was a very necessary wake-up call.
 
-[im-back-gif](readme-images/im-back-baby-futurama.gif)  
+![im-back-gif](readme-images/im-back-baby-futurama.gif)  
